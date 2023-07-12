@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author:    d0t451
-@date:      2019/4/17
-@desc:      draw fractal images
-"""
-from fractal_utils import *
+from utils import *
 
 
 def draw_julia_image(width, height, is_save_to_file=False):
